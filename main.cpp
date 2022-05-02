@@ -21,7 +21,6 @@ int main()
 	cout << c * d << endl;
 	cout << c / d << endl;
 	//cout << c % d << endl; %연산자는 정수형에서 사용
-	cout << fmodf (c, d) << endl; //실수 나머지 연산은 fmod를 사용
 
 	return 0;
 }
