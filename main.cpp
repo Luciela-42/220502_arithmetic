@@ -20,7 +20,7 @@ int main()
 	cout << apple * ball << endl;
 	cout << apple / ball << endl;
 	cout << apple % ball << endl;
-
+	cout << endl;
 	cout << "실수 사칙연산" << endl;
 	cout << cash + devcat << endl;
 	cout << cash - devcat << endl;
